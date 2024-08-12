@@ -3,7 +3,7 @@
 <h2>Home lab projects:</h2>
 
 - <b>Active Directory home Lab</b>
-  - [Pacticing with Active Directory]()
+  - [Pacticing with Active Directory](https://github.com/Dpayne2/ActiveDirectoryLab)
 
 
 <h2>Certifications</h2>
