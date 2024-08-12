@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1>Hi, I'm Daryl 
 
-<!--
-**Dpayne2/Dpayne2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Home lab projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Active Directory home Lab</b>
+  - [Pacticing with Active Directory]()
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h2>Certifications</h2>
+
+- [CompTIA A+](https://www.credly.com/badges/54455d85-7811-47b3-af4e-52efd1bca0b7/public_url)
+- [CompTIA Net+](https://www.credly.com/badges/d3b72154-963c-49ed-a793-3507f9a61ad5/public_url)
+- [CompTIA Security+](https://www.credly.com/badges/fbc7fbe5-a2bf-4b63-86ee-0a5d2627e20f/public_url)
+
+
+
